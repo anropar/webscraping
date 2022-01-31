@@ -1,0 +1,380 @@
+Location,Borough,Town,OS,Postalcode,location,point,latitude,longitude
+Abbey Wood,"Bexley, Greenwich ",LONDON,TQ465785,SE2,"Bexley Road, Avery Hill, Royal Borough of Greenwich, London, Greater London, England, SE9 2PR, United Kingdom","(51.4510531, 0.0790997, 0.0)",51.4510531,0.0790997
+Acton,"Ealing, Hammersmith and Fulham",LONDON,TQ205805,W3,"Ealing, Hammersmith & West London College, St Paul's Court, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, England, W14 9BL, United Kingdom","(51.49153695, -0.21497089652160112, 0.0)",51.49153695,-0.214970897
+Acton,"Ealing, Hammersmith and Fulham",LONDON,TQ205805,W4,"Ealing, Hammersmith & West London College, St Paul's Court, West Kensington, London Borough of Hammersmith and Fulham, London, Greater London, England, W14 9BL, United Kingdom","(51.49153695, -0.21497089652160112, 0.0)",51.49153695,-0.214970897
+Aldgate,City,LONDON,TQ334813,EC3,"City of London, Greater London, England, United Kingdom","(51.5156177, -0.0919983, 0.0)",51.5156177,-0.0919983
+Aldwych,Westminster,LONDON,TQ307810,WC2,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Anerley,Bromley,LONDON,TQ345695,SE20,"Bromley, London, Greater London, England, BR1 1EY, United Kingdom","(51.4028046, 0.0148142, 0.0)",51.4028046,0.0148142
+Angel,Islington,LONDON,TQ345665,EC1,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Angel,Islington,LONDON,TQ345665,N1,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Archway,Islington,LONDON,TQ285875,N19,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Arkley,Barnet,"BARNET, LONDON",TQ225955,EN5,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Arkley,Barnet,"BARNET, LONDON",TQ225955,NW7,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Arnos Grove,Enfield,LONDON,TQ295925,N11,"Enfield, London, Greater London, England, EN2 6LD, United Kingdom","(51.6520851, -0.0810175, 0.0)",51.6520851,-0.0810175
+Arnos Grove,Enfield,LONDON,TQ295925,N14,"Enfield, London, Greater London, England, EN2 6LD, United Kingdom","(51.6520851, -0.0810175, 0.0)",51.6520851,-0.0810175
+Balham,Wandsworth,LONDON,TQ285735,SW12,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+Bankside,Southwark,LONDON,TQ325795,SE1,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Barbican,City,LONDON,TQ322818,EC1,"City of London, Greater London, England, United Kingdom","(51.5156177, -0.0919983, 0.0)",51.5156177,-0.0919983
+Barbican,City,LONDON,TQ322818,EC2,"City of London, Greater London, England, United Kingdom","(51.5156177, -0.0919983, 0.0)",51.5156177,-0.0919983
+Barnes,Richmond upon Thames,LONDON,TQ225765,SW13,"London Borough of Richmond upon Thames, London, Greater London, England, United Kingdom","(51.4405529, -0.3076394377337949, 0.0)",51.4405529,-0.307639438
+Barnet Gate,Barnet,"LONDON, BARNET",TQ218952,NW7,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Barnet Gate,Barnet,"LONDON, BARNET",TQ218952,EN5,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Barnsbury,Islington,LONDON,TQ305845,N1,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Battersea,Wandsworth,LONDON,TQ285765,SW11,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+Bayswater,Westminster,LONDON,TQ255805,W2,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Beckenham,Bromley,"BECKENHAM, LONDON",TQ375695,BR3,"Bromley, London, Greater London, England, BR1 1EY, United Kingdom","(51.4028046, 0.0148142, 0.0)",51.4028046,0.0148142
+Beckenham,Bromley,"BECKENHAM, LONDON",TQ375695,SE20,"Bromley, London, Greater London, England, BR1 1EY, United Kingdom","(51.4028046, 0.0148142, 0.0)",51.4028046,0.0148142
+Beckton,Newham,"LONDON, BARKING",TQ435815,E6,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Beckton,Newham,"LONDON, BARKING",TQ435815,E16,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Beckton,Newham,"LONDON, BARKING",TQ435815,IG11,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Bedford Park,Ealing,LONDON,TQ208793,W4,"Ealing, London, Greater London, England, W5 5DG, United Kingdom","(51.5126553, -0.3051952, 0.0)",51.5126553,-0.3051952
+Belgravia,Westminster,LONDON,TQ283792,SW1,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Bellingham,Lewisham,LONDON,TQ375715,SE6,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Belsize Park,Camden,LONDON,TQ273845,NW3,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Bermondsey,Southwark,LONDON,TQ335795,SE1,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Bethnal Green,Tower Hamlets,LONDON,TQ345825,E2,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Bexleyheath (also Bexley New Town),Bexley,"BEXLEYHEATH, LONDON",TQ485755,DA6,"Bexley, Franklin County, Ohio, 43209, United States","(39.9692378, -82.936864, 0.0)",39.9692378,-82.936864
+Bexleyheath (also Bexley New Town),Bexley,"BEXLEYHEATH, LONDON",TQ485755,DA7,"Bexley, Franklin County, Ohio, 43209, United States","(39.9692378, -82.936864, 0.0)",39.9692378,-82.936864
+Bexleyheath (also Bexley New Town),Bexley,"BEXLEYHEATH, LONDON",TQ485755,SE2,"Bexley, Franklin County, Ohio, 43209, United States","(39.9692378, -82.936864, 0.0)",39.9692378,-82.936864
+Blackfriars,City,LONDON,TQ318808,EC4,"City of London, Greater London, England, United Kingdom","(51.5156177, -0.0919983, 0.0)",51.5156177,-0.0919983
+Blackheath,Lewisham,LONDON,TQ395765,SE3,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Blackheath Royal Standard,Greenwich,LONDON,TQ399753,SE3,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Blackheath Royal Standard,Greenwich,LONDON,TQ399753,SE12,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Blackwall,Tower Hamlets,LONDON,TQ385805,E14,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Bloomsbury,Camden,LONDON,TQ299820,WC1,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Bounds Green,Haringey,LONDON,TQ298914,N11,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Bounds Green,Haringey,LONDON,TQ298914,N22,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Bow,Tower Hamlets,LONDON,TQ365825,E3,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Bowes Park,Haringey,LONDON,TQ305915,N22,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Brent Cross,Barnet,LONDON,TQ230874,NW2,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Brent Cross,Barnet,LONDON,TQ230874,NW4,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Brent Park,Brent,LONDON,TQ209852,NW10,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Brixton,Lambeth,LONDON,TQ315755,SW2,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Brixton,Lambeth,LONDON,TQ315755,SW9,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Brixton,Lambeth,LONDON,TQ315755,SE5,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Brockley,Lewisham,LONDON,TQ365745,SE4,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Bromley (also Bromley-by-Bow),Tower Hamlets,LONDON,TQ375825,E3,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Brompton,"Kensington and Chelsea, Hammersmith and Fulham",LONDON,TQ272788,SW3,"Fulham Road, Lot's Village, Worlds End, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW10 9UU, United Kingdom","(51.4813171, -0.1877724, 0.0)",51.4813171,-0.1877724
+Brondesbury,Brent,LONDON,TQ245845,NW6,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Brunswick Park,Barnet,LONDON,TQ280932,N11,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+"Burroughs, The",Barnet,LONDON,TQ227891,NW4,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Camberwell,Southwark,LONDON,TQ325767,SE5,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Cambridge Heath,Tower Hamlets,LONDON,TQ348832,E2,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Camden Town,Camden,LONDON,TQ295845,NW1,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Canary Wharf,Tower Hamlets,LONDON,TQ375802,E14,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Cann Hall,Waltham Forest,LONDON,TQ395875,E11,"The Forest, Upper Walthamstow, London Borough of Waltham Forest, London, Greater London, England, E17, United Kingdom","(51.5851424, 0.009494, 0.0)",51.5851424,0.009494
+Canning Town,Newham,LONDON,TQ405815,E16,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Canonbury,Islington,LONDON,TQ325845,N1,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Castelnau,Richmond upon Thames,LONDON,TQ226776,SW13,"London Borough of Richmond upon Thames, London, Greater London, England, United Kingdom","(51.4405529, -0.3076394377337949, 0.0)",51.4405529,-0.307639438
+Catford,Lewisham,LONDON,TQ385735,SE6,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Chalk Farm,Camden,LONDON,TQ281844,NW1,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Charing Cross,Westminster,LONDON,TQ305805,WC2,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Charlton,Greenwich,LONDON,TQ415785,SE7,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Chelsea,Kensington and Chelsea,LONDON,TQ275775,SW3,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+Childs Hill,Barnet,LONDON,TQ245865,NW2,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Chinatown,Westminster,LONDON,TQ297808,W1,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Chinbrook,Lewisham,LONDON,TQ411722,SE12,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Chingford,Waltham Forest,LONDON,TQ395945,E4,"The Forest, Upper Walthamstow, London Borough of Waltham Forest, London, Greater London, England, E17, United Kingdom","(51.5851424, 0.009494, 0.0)",51.5851424,0.009494
+Church End,Brent,LONDON,TQ205785,NW10,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Church End,Barnet,LONDON,TQ255905,N3,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Clapham,"Lambeth, Wandsworth",LONDON,TQ295755,SW4,"Wandsworth Road, Heswall Close, Clapham Park, London Borough of Lambeth, London, Greater London, England, SW4 6LG, United Kingdom","(51.4699602, -0.1384355, 0.0)",51.4699602,-0.1384355
+Clerkenwell,Islington,LONDON,TQ315825,EC1,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Colindale,Barnet,LONDON,TQ213897,NW9,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Colliers Wood,Merton,LONDON,TQ275705,SW19,"London Borough of Merton, London, Greater London, England, United Kingdom","(51.41086985, -0.18809708858824303, 0.0)",51.41086985,-0.188097089
+Colney Hatch,Barnet,LONDON,TQ278918,N11,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Colney Hatch,Barnet,LONDON,TQ278918,N10,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Covent Garden,Westminster,LONDON,TQ303809,WC2,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Cricklewood,"Barnet, Brent, Camden",LONDON,TQ235855,NW2,"Brent Place, High Barnet, London Borough of Barnet, London, Greater London, England, EN5 2DR, United Kingdom","(51.6456892, -0.1950367, 0.0)",51.6456892,-0.1950367
+Crofton Park,Lewisham,LONDON,TQ367744,SE4,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Crossness,Bexley,LONDON,TQ480800,SE2,"Bexley, Franklin County, Ohio, 43209, United States","(39.9692378, -82.936864, 0.0)",39.9692378,-82.936864
+Crouch End,Haringey,LONDON,TQ295885,N8,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Crystal Palace,Bromley,LONDON,TQ341708,SE19,"Bromley, London, Greater London, England, BR1 1EY, United Kingdom","(51.4028046, 0.0148142, 0.0)",51.4028046,0.0148142
+Crystal Palace,Bromley,LONDON,TQ341708,SE20,"Bromley, London, Greater London, England, BR1 1EY, United Kingdom","(51.4028046, 0.0148142, 0.0)",51.4028046,0.0148142
+Crystal Palace,Bromley,LONDON,TQ341708,SE26,"Bromley, London, Greater London, England, BR1 1EY, United Kingdom","(51.4028046, 0.0148142, 0.0)",51.4028046,0.0148142
+Cubitt Town,Tower Hamlets,LONDON,TQ385795,E14,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Custom House,Newham,LONDON,TQ408807,E16,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Dalston,Hackney,LONDON,TQ345845,E8,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+De Beauvoir Town,Islington,LONDON,TQ332842,N1,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Denmark Hill,Southwark,LONDON,TQ327760,SE5,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Deptford,Lewisham,LONDON,TQ365775,SE8,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Dollis Hill,Brent,LONDON,TQ225865,NW2,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Dulwich,Southwark,LONDON,TQ345725,SE21,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Ealing,Ealing,LONDON,TQ175805,W5,"Ealing, London, Greater London, England, W5 5DG, United Kingdom","(51.5126553, -0.3051952, 0.0)",51.5126553,-0.3051952
+Ealing,Ealing,LONDON,TQ175805,W13,"Ealing, London, Greater London, England, W5 5DG, United Kingdom","(51.5126553, -0.3051952, 0.0)",51.5126553,-0.3051952
+Earls Court,Kensington and Chelsea,LONDON,TQ254784,SW5,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+Earls Court,Kensington and Chelsea,LONDON,TQ254784,SW10,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+Earlsfield,Wandsworth,LONDON,TQ265735,SW18,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+East Dulwich,Southwark,LONDON,TQ345745,SE22,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+East Finchley,Barnet,LONDON,TQ265895,N2,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+East Ham,Newham,LONDON,TQ425835,E6,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+East Sheen,Richmond upon Thames,LONDON,TQ205755,SW14,"London Borough of Richmond upon Thames, London, Greater London, England, United Kingdom","(51.4405529, -0.3076394377337949, 0.0)",51.4405529,-0.307639438
+Edmonton,Enfield,LONDON,TQ335925,N9,"Enfield, London, Greater London, England, EN2 6LD, United Kingdom","(51.6520851, -0.0810175, 0.0)",51.6520851,-0.0810175
+Edmonton,Enfield,LONDON,TQ335925,N18,"Enfield, London, Greater London, England, EN2 6LD, United Kingdom","(51.6520851, -0.0810175, 0.0)",51.6520851,-0.0810175
+Elephant and Castle,Southwark,LONDON,TQ319789,SE1,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Elephant and Castle,Southwark,LONDON,TQ319789,SE11,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Elephant and Castle,Southwark,LONDON,TQ319789,SE17,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Eltham,Greenwich,LONDON,TQ425745,SE9,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Falconwood,"Bexley, Greenwich","LONDON, WELLING",TQ455755,SE9,"Bexley Road, Avery Hill, Royal Borough of Greenwich, London, Greater London, England, SE9 2PR, United Kingdom","(51.4510531, 0.0790997, 0.0)",51.4510531,0.0790997
+Falconwood,"Bexley, Greenwich","LONDON, WELLING",TQ455755,DA16,"Bexley Road, Avery Hill, Royal Borough of Greenwich, London, Greater London, England, SE9 2PR, United Kingdom","(51.4510531, 0.0790997, 0.0)",51.4510531,0.0790997
+Farringdon,"Islington, City",LONDON,TQ315818,EC1,"City, University of London, Wynyatt Street, Clerkenwell Green, Clerkenwell, London Borough of Islington, London, Greater London, England, EC1V 4PA, United Kingdom","(51.527680700000005, -0.10356990871095317, 0.0)",51.5276807,-0.103569909
+Finchley,Barnet,LONDON,TQ255905,N2,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Finchley,Barnet,LONDON,TQ255905,N3,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Finchley,Barnet,LONDON,TQ255905,N12,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Finsbury,Islington,LONDON,TQ315825,EC1,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Finsbury Park,"Haringey, Islington",LONDON,TQ314872,N4,"St Pancras and Islington Cemetery, Friern Barnet, London Borough of Barnet, London, Greater London, England, United Kingdom","(51.60068015, -0.16456612489535521, 0.0)",51.60068015,-0.164566125
+Fitzrovia,Camden,LONDON,TQ293816,W1,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Forest Gate,Newham,LONDON,TQ405855,E7,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Forest Hill,Lewisham,LONDON,TQ354736,SE23,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Fortis Green,Haringey,LONDON,TQ281896,N10,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Friern Barnet,Barnet,LONDON,TQ276920,N11,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Frognal,Camden,LONDON,TQ257853,NW3,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Fulham,Hammersmith and Fulham,LONDON,TQ245765,SW6,"Hammersmith, London, Greater London, England, W6 9YA, United Kingdom","(51.4920377, -0.2236401, 0.0)",51.4920377,-0.2236401
+Gipsy Hill,Lambeth,LONDON,TQ332710,SE19,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Gipsy Hill,Lambeth,LONDON,TQ332710,SE27,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Golders Green,Barnet,LONDON,TQ248876,NW11,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Gospel Oak,Camden,LONDON,TQ285855,NW5,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Gospel Oak,Camden,LONDON,TQ285855,NW3,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Grahame Park,Barnet,LONDON,TQ217905,NW9,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Grange Park,Enfield,LONDON,TQ313962,N21,"Enfield, London, Greater London, England, EN2 6LD, United Kingdom","(51.6520851, -0.0810175, 0.0)",51.6520851,-0.0810175
+Greenwich,Greenwich,LONDON,TQ395775,SE10,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Grove Park,Hounslow,LONDON,TQ205775,W4,"Hounslow, London, Greater London, England, TW3 1BL, United Kingdom","(51.4686132, -0.3613471, 0.0)",51.4686132,-0.3613471
+Grove Park,Lewisham,LONDON,TQ404722,SE12,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Gunnersbury,Hounslow,LONDON,TQ195785,W4,"Hounslow, London, Greater London, England, TW3 1BL, United Kingdom","(51.4686132, -0.3613471, 0.0)",51.4686132,-0.3613471
+Hackney,Hackney,LONDON,TQ345845,E5,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Hackney,Hackney,LONDON,TQ345845,E8,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Hackney,Hackney,LONDON,TQ345845,E9,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Hackney,Hackney,LONDON,TQ345845,N1,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Hackney,Hackney,LONDON,TQ345845,N16,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Hackney Central,Hackney,LONDON,TQ347850,E8,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Hackney Marshes,Hackney,LONDON,TQ365861,E9,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Hackney Wick,Hackney,LONDON,TQ369847,E9,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Haggerston,Hackney,LONDON,TQ335835,E2,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+The Hale,Barnet,LONDON,TQ205918,NW7,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Hammersmith,Hammersmith and Fulham,LONDON,TQ233786,W6,"Hammersmith, London, Greater London, England, W6 9YA, United Kingdom","(51.4920377, -0.2236401, 0.0)",51.4920377,-0.2236401
+Hampstead,Camden,LONDON,TQ265855,NW3,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Hampstead Garden Suburb,Barnet,LONDON,TQ265885,N2,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Hanwell,Ealing,LONDON,TQ153802,W7,"Ealing, London, Greater London, England, W5 5DG, United Kingdom","(51.5126553, -0.3051952, 0.0)",51.5126553,-0.3051952
+Harlesden,Brent,LONDON,TQ215835,NW10,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Harringay,Haringey,LONDON,TQ317887,N4,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Harringay,Haringey,LONDON,TQ317887,N8,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Harringay,Haringey,LONDON,TQ317887,N15,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Hendon,Barnet,LONDON,TQ229887,NW4,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Herne Hill,Lambeth,LONDON,TQ325745,SE24,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Highams Park,Waltham Forest,LONDON,TQ375915,E4,"The Forest, Upper Walthamstow, London Borough of Waltham Forest, London, Greater London, England, E17, United Kingdom","(51.5851424, 0.009494, 0.0)",51.5851424,0.009494
+Highbury,Islington,LONDON,TQ319854,N5,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Highgate,Camden,LONDON,TQ285875,N6,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Hither Green,Lewisham,LONDON,TQ395745,SE13,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Holborn,Camden,LONDON,TQ305815,WC1,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Holborn,Camden,LONDON,TQ305815,WC2,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Holland Park,Kensington and Chelsea,LONDON,TQ246798,W8,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+Holland Park,Kensington and Chelsea,LONDON,TQ246798,W11,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+Holland Park,Kensington and Chelsea,LONDON,TQ246798,W14,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+Holloway,Islington,LONDON,TQ307859,N7,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Homerton,Hackney,LONDON,TQ355855,E9,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Honor Oak,Lewisham,LONDON,TQ355745,SE23,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Horn Park,"Greenwich, Lewisham",LONDON,TQ408739,SE12,"Greenwich House, Hither Green, London Borough of Lewisham, London, Greater London, England, SE13 6TL, United Kingdom","(51.4482304, -0.0023172, 0.0)",51.4482304,-0.0023172
+Hornsey,Haringey,LONDON,TQ305895,N8,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Hoxton,Hackney,LONDON,TQ335835,N1,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+The Hyde,Barnet,LONDON,TQ215888,NW9,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Isle of Dogs,Tower Hamlets,LONDON,TQ375785,E14,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Islington,Islington,LONDON,TQ315845,N1,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Kennington,"Lambeth, Southwark",LONDON,TQ305775,SE11,"Southwark, Joan Street, South Bank, Lambeth, London Borough of Southwark, London, Greater London, England, SE1 8JZ, United Kingdom","(51.5040996, -0.1050541, 0.0)",51.5040996,-0.1050541
+Kensal Green,Brent,LONDON,TQ235825,NW10,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Kensal Green,Brent,LONDON,TQ235825,NW6,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Kensington,Kensington and Chelsea,LONDON,TQ255795,SW7,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+Kentish Town,Camden,LONDON,TQ285845,NW5,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Kenton,"Brent, Harrow","HARROW, LONDON",TQ175885,HA3,"Sudbury & Harrow Road, Sudbury Crescent, North Wembley, London Borough of Brent, London, Greater London, England, HA0 2LZ, United Kingdom","(51.5543503, -0.3161206, 0.0)",51.5543503,-0.3161206
+Kidbrooke,Greenwich,LONDON,TQ415765,SE3,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Kilburn,"Brent, Camden",LONDON,TQ245835,NW6,"Brent, San Antonio, Bexar County, Texas, 78223, United States","(29.3770085, -98.4512152, 0.0)",29.3770085,-98.4512152
+King's Cross,"Camden, Islington",LONDON,TQ301834,WC1,"Camden Road Open Space, Holloway, London Borough of Islington, London, Greater London, England, United Kingdom","(51.55523945, -0.11809731407678245, 0.0)",51.55523945,-0.118097314
+Kingsbury,Brent,LONDON,TQ195885,NW9,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Kingston Vale,Kingston upon Thames,LONDON,TQ215715,SW15,"Kingston upon Thames, London, Greater London, England, KT1 1JS, United Kingdom","(51.4096275, -0.3062621, 0.0)",51.4096275,-0.3062621
+Knightsbridge,Westminster,LONDON,TQ275795,SW1,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Ladywell,Lewisham,LONDON,TQ37777459,SE4,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Ladywell,Lewisham,LONDON,TQ37777459,SE13,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Lambeth,Lambeth,LONDON,TQ305785,SE1,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Lea Bridge,Hackney,LONDON,TQ355865,E10,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Leamouth,Tower Hamlets,LONDON,TQ394807,E14,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Lee,Lewisham,LONDON,TQ395745,SE12,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Lewisham,Lewisham,LONDON,TQ385755,SE13,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Leyton,Waltham Forest,LONDON,TQ375865,E10,"The Forest, Upper Walthamstow, London Borough of Waltham Forest, London, Greater London, England, E17, United Kingdom","(51.5851424, 0.009494, 0.0)",51.5851424,0.009494
+Leyton,Waltham Forest,LONDON,TQ375865,E15,"The Forest, Upper Walthamstow, London Borough of Waltham Forest, London, Greater London, England, E17, United Kingdom","(51.5851424, 0.009494, 0.0)",51.5851424,0.009494
+Leytonstone,Waltham Forest,LONDON,TQ395875,E11,"The Forest, Upper Walthamstow, London Borough of Waltham Forest, London, Greater London, England, E17, United Kingdom","(51.5851424, 0.009494, 0.0)",51.5851424,0.009494
+Limehouse,Tower Hamlets,LONDON,TQ365815,E14,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Lisson Grove,Westminster,LONDON,TQ275825,NW8,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Little Ilford,Newham,LONDON,TQ435855,E12,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Little Venice,Westminster,LONDON,TQ262818,W9,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Little Venice,Westminster,LONDON,TQ262818,W2,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Longlands,Bexley,"LONDON, SIDCUP",TQ449722,SE9,"Bexley, Franklin County, Ohio, 43209, United States","(39.9692378, -82.936864, 0.0)",39.9692378,-82.936864
+Longlands,Bexley,"LONDON, SIDCUP",TQ449722,DA14,"Bexley, Franklin County, Ohio, 43209, United States","(39.9692378, -82.936864, 0.0)",39.9692378,-82.936864
+Longlands,Bexley,"LONDON, SIDCUP",TQ449722,DA15,"Bexley, Franklin County, Ohio, 43209, United States","(39.9692378, -82.936864, 0.0)",39.9692378,-82.936864
+Lower Clapton,Hackney,LONDON,TQ355855,E5,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Maida Vale,Westminster,LONDON,TQ255825,W9,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Manor House,Hackney,LONDON,TQ320876,N4,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Manor Park,Newham,LONDON,TQ425855,E12,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Maryland,Newham,LONDON,TQ391849,E15,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Marylebone (also St Marylebone),Westminster,LONDON,TQ285815,W1,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Mayfair,Westminster,LONDON,TQ285805,W1,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Maze Hill,Greenwich,LONDON,TQ402780,SE10,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Merton Park,Merton,LONDON,TQ250695,SW19,"London Borough of Merton, London, Greater London, England, United Kingdom","(51.41086985, -0.18809708858824303, 0.0)",51.41086985,-0.188097089
+Middle Park,Greenwich,LONDON,TQ417738,SE9,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Mile End,Tower Hamlets,LONDON,TQ365825,E1,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Mill Hill,Barnet,LONDON,TQ225925,NW7,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Millbank,Westminster,LONDON,TQ295795,SW1,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Millwall,Tower Hamlets,LONDON,TQ375785,E14,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Mortlake,Richmond upon Thames,LONDON,TQ205755,SW14,"London Borough of Richmond upon Thames, London, Greater London, England, United Kingdom","(51.4405529, -0.3076394377337949, 0.0)",51.4405529,-0.307639438
+Mottingham,Bromley,LONDON,TQ415725,SE9,"Bromley, London, Greater London, England, BR1 1EY, United Kingdom","(51.4028046, 0.0148142, 0.0)",51.4028046,0.0148142
+Muswell Hill,"Haringey, Barnet",LONDON,TQ287897,N10,"Barnet Brake & Clutch Services, Myddleton Road, London Borough of Haringey, London, Greater London, England, N22 8NE, United Kingdom","(51.606551, -0.118848, 0.0)",51.606551,-0.118848
+Neasden,Brent,LONDON,TQ215855,NW2,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Neasden,Brent,LONDON,TQ215855,NW10,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+New Cross,Lewisham,LONDON,TQ365765,SE14,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+New Eltham,Greenwich,LONDON,TQ440730,SE9,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+New Southgate,Barnet,LONDON,TQ295925,N11,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Newington,Southwark,LONDON,TQ325795,SE1,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Newington,Southwark,LONDON,TQ325795,SE17,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Nine Elms,Wandsworth,LONDON,TQ295775,SW8,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+Norbury,Croydon,LONDON,TQ315695,SW16,"Croydon, London, Greater London, England, CR0 1SZ, United Kingdom","(51.3713049, -0.101957, 0.0)",51.3713049,-0.101957
+North Finchley,Barnet,LONDON,TQ265925,N12,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+North Kensington,Kensington and Chelsea,LONDON,TQ239821,W10,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+North Kensington,Kensington and Chelsea,LONDON,TQ239821,W11,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+North Woolwich,Newham,LONDON,TQ435795,E16,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Notting Hill,Kensington and Chelsea,LONDON,TQ245805,W11,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+Nunhead,Southwark,LONDON,TQ355755,SE15,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Oakleigh Park,Barnet,LONDON,TQ265935,N20,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Old Ford,Tower Hamlets,LONDON,TQ365835,E3,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Old Oak Common,Hammersmith and Fulham,LONDON,TQ216823,NW10,"Hammersmith, London, Greater London, England, W6 9YA, United Kingdom","(51.4920377, -0.2236401, 0.0)",51.4920377,-0.2236401
+Osidge,Barnet,LONDON,TQ285945,N14,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Oval,Lambeth,LONDON,TQ315575,SW8,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Oval,Lambeth,LONDON,TQ315575,SW9,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Oval,Lambeth,LONDON,TQ315575,SE11,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Paddington,Westminster,LONDON,TQ267814,W2,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Palmers Green,Enfield,LONDON,TQ305935,N13,"Enfield, London, Greater London, England, EN2 6LD, United Kingdom","(51.6520851, -0.0810175, 0.0)",51.6520851,-0.0810175
+Park Royal,"Brent, Ealing",LONDON,TQ195828,NW10,"River Brent Business Park, Hanwell, London Borough of Ealing, London, Greater London, England, United Kingdom","(51.499327050000005, -0.3388955643556247, 0.0)",51.49932705,-0.338895564
+Parsons Green,Hammersmith and Fulham,LONDON,TQ255765,SW6,"Hammersmith, London, Greater London, England, W6 9YA, United Kingdom","(51.4920377, -0.2236401, 0.0)",51.4920377,-0.2236401
+Peckham,Southwark,LONDON,TQ345765,SE15,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Penge,Bromley,LONDON,TQ345705,SE20,"Bromley, London, Greater London, England, BR1 1EY, United Kingdom","(51.4028046, 0.0148142, 0.0)",51.4028046,0.0148142
+Pentonville,Islington,LONDON,TQ311830,N1,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Pimlico,Westminster,LONDON,TQ295785,SW1,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Plaistow,Newham,LONDON,TQ405825,E13,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Plumstead,Greenwich,LONDON,TQ445785,SE18,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Poplar,Tower Hamlets,LONDON,TQ375805,E14,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Primrose Hill,Camden,LONDON,TQ282838,NW1,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Primrose Hill,Camden,LONDON,TQ282838,NW3,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Primrose Hill,Camden,LONDON,TQ282838,NW8,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Putney,Wandsworth,LONDON,TQ235755,SW15,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+Queen's Park,Brent,LONDON,TQ246832,NW6,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Queensbury,"Harrow, Brent","HARROW, STANMOREEDGWARE, LONDON",TQ185895,HA3,"Sudbury & Harrow Road, Sudbury Crescent, North Wembley, London Borough of Brent, London, Greater London, England, HA0 2LZ, United Kingdom","(51.5543503, -0.3161206, 0.0)",51.5543503,-0.3161206
+Queensbury,"Harrow, Brent","HARROW, STANMOREEDGWARE, LONDON",TQ185895,HA7,"Sudbury & Harrow Road, Sudbury Crescent, North Wembley, London Borough of Brent, London, Greater London, England, HA0 2LZ, United Kingdom","(51.5543503, -0.3161206, 0.0)",51.5543503,-0.3161206
+Queensbury,"Harrow, Brent","HARROW, STANMOREEDGWARE, LONDON",TQ185895,HA8,"Sudbury & Harrow Road, Sudbury Crescent, North Wembley, London Borough of Brent, London, Greater London, England, HA0 2LZ, United Kingdom","(51.5543503, -0.3161206, 0.0)",51.5543503,-0.3161206
+Ratcliff,Tower Hamlets,LONDON,TQ355805,E1,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Raynes Park,Merton,LONDON,TQ235685,SW20,"London Borough of Merton, London, Greater London, England, United Kingdom","(51.41086985, -0.18809708858824303, 0.0)",51.41086985,-0.188097089
+Roehampton,Wandsworth,LONDON,TQ225745,SW15,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+Rotherhithe,Southwark,LONDON,TQ358796,SE16,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Sands End,Hammersmith and Fulham,LONDON,TQ265765,SW6,"Hammersmith, London, Greater London, England, W6 9YA, United Kingdom","(51.4920377, -0.2236401, 0.0)",51.4920377,-0.2236401
+Selhurst,Croydon,LONDON,TQ340684,SE25,"Croydon, London, Greater London, England, CR0 1SZ, United Kingdom","(51.3713049, -0.101957, 0.0)",51.3713049,-0.101957
+Seven Sisters,Haringey,LONDON,TQ334888,N15,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Shacklewell,Hackney,LONDON,TQ335855,E8,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Shacklewell,Hackney,LONDON,TQ335855,N16,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Shadwell,Tower Hamlets,LONDON,TQ355805,E1,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Shepherd's Bush,Hammersmith and Fulham,LONDON,TQ235798,W12,"Hammersmith, London, Greater London, England, W6 9YA, United Kingdom","(51.4920377, -0.2236401, 0.0)",51.4920377,-0.2236401
+Shooter's Hill,Greenwich,LONDON,TQ435765,SE18,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Shoreditch,Hackney,LONDON,TQ334822,N1,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Silvertown,Newham,LONDON,TQ415795,E16,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Snaresbrook,"Redbridge, Waltham Forest",LONDON,TQ395895,E11,"Waltham Road, Woodford, London Borough of Redbridge, London, Greater London, England, IG8 8DP, United Kingdom","(51.6081792, 0.0526336, 0.0)",51.6081792,0.0526336
+Soho,Westminster,LONDON,TQ295815,W1,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Somerstown,Camden,LONDON,TQ295825,NW1,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+South Hackney,Hackney,LONDON,TQ355845,E9,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+South Kensington,Kensington and Chelsea,LONDON,TQ265785,SW7,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+South Kensington,Kensington and Chelsea,LONDON,TQ265785,SW3,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+South Kensington,Kensington and Chelsea,LONDON,TQ265785,SW5,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+South Norwood,Croydon,LONDON,TQ340684,SE25,"Croydon, London, Greater London, England, CR0 1SZ, United Kingdom","(51.3713049, -0.101957, 0.0)",51.3713049,-0.101957
+South Wimbledon,Merton,LONDON,TQ255705,SW19,"London Borough of Merton, London, Greater London, England, United Kingdom","(51.41086985, -0.18809708858824303, 0.0)",51.41086985,-0.188097089
+South Woodford,Redbridge,LONDON,TQ405905,E18,"Redbridge, Eastern Avenue, Redbridge, London Borough of Redbridge, London, Greater London, England, IG4 5DQ, United Kingdom","(51.5763203, 0.0454097, 0.0)",51.5763203,0.0454097
+South Tottenham,Haringey,LONDON,TQ335885,N15,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+South Tottenham,Haringey,LONDON,TQ335885,N17,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Southend,Lewisham,LONDON,TQ373721,SE6,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+Southfields,Wandsworth,LONDON,TQ255735,SW18,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+Southfields,Wandsworth,LONDON,TQ255735,SW19,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+Southgate,Enfield,LONDON,TQ296942,N14,"Enfield, London, Greater London, England, EN2 6LD, United Kingdom","(51.6520851, -0.0810175, 0.0)",51.6520851,-0.0810175
+Spitalfields,Tower Hamlets,LONDON,TQ335815,E1,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+St James's,Westminster,LONDON,TQ295805,SW1,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+St Giles,Camden,LONDON,TQ305815,WC2,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+St Johns,Lewisham,LONDON,TQ375765,SE4,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom","(51.4624325, -0.0101331, 0.0)",51.4624325,-0.0101331
+St John's Wood,Westminster,LONDON,TQ265835,NW8,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+St Luke's,Islington,LONDON,TQ324824,EC1,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+St Pancras,Camden,LONDON,TQ301825,WC1,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+Stamford Hill,Hackney,LONDON,TQ335875,N15,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Stamford Hill,Hackney,LONDON,TQ335875,N16,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Stepney,Tower Hamlets,LONDON,TQ355814,E1,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Stockwell,Lambeth,LONDON,TQ305755,SW8,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Stockwell,Lambeth,LONDON,TQ305755,SW9,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Stoke Newington,Hackney,LONDON,TQ335865,N16,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Stonebridge,Brent,LONDON,TQ203839,NW10,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Stratford,Newham,LONDON,TQ385845,E15,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Streatham,Lambeth,LONDON,TQ305715,SW16,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Stroud Green,Haringey,LONDON,TQ311881,N4,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Surrey Quays,Southwark,LONDON,TQ356789,SE16,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Swiss Cottage,Camden,LONDON,TQ266842,NW3,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+"Sydenham (also Lower Sydenham, Upper Sydenham)","Lewisham, Bromley",LONDON,TQ352714,SE26,"Bromley Hill Gardens, Downham, London Borough of Lewisham, London, Greater London, England, United Kingdom","(51.41902495, 0.002584605519905689, 0.0)",51.41902495,0.002584606
+Sydenham Hill,"Lewisham, Southwark",LONDON,TQ352714,SE21,"Lewisham Southwark College, Hatfields, Bankside, Southwark, London Borough of Southwark, London, Greater London, England, SE1 8LE, United Kingdom","(51.5029041, -0.10598456348964677, 0.0)",51.5029041,-0.105984563
+Sydenham Hill,"Lewisham, Southwark",LONDON,TQ352714,SE26,"Lewisham Southwark College, Hatfields, Bankside, Southwark, London Borough of Southwark, London, Greater London, England, SE1 8LE, United Kingdom","(51.5029041, -0.10598456348964677, 0.0)",51.5029041,-0.105984563
+Temple,"City, Westminster",LONDON,TQ311809,EC4,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Temple,"City, Westminster",LONDON,TQ311809,WC2,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Thamesmead,"Bexley, Greenwich","LONDON, ERITH",TQ475805,SE28,"Bexley Road, Avery Hill, Royal Borough of Greenwich, London, Greater London, England, SE9 2PR, United Kingdom","(51.4510531, 0.0790997, 0.0)",51.4510531,0.0790997
+Thamesmead,"Bexley, Greenwich","LONDON, ERITH",TQ475805,SE2,"Bexley Road, Avery Hill, Royal Borough of Greenwich, London, Greater London, England, SE9 2PR, United Kingdom","(51.4510531, 0.0790997, 0.0)",51.4510531,0.0790997
+Thamesmead,"Bexley, Greenwich","LONDON, ERITH",TQ475805,DA18,"Bexley Road, Avery Hill, Royal Borough of Greenwich, London, Greater London, England, SE9 2PR, United Kingdom","(51.4510531, 0.0790997, 0.0)",51.4510531,0.0790997
+Tooting,Wandsworth,LONDON,TQ275715,SW17,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+Tooting Bec,Wandsworth,LONDON,TQ275715,SW17,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+Tottenham,Haringey,LONDON,TQ335905,N15,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Tottenham,Haringey,LONDON,TQ335905,N17,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Tottenham Green,Haringey,LONDON,TQ337892,N15,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Tottenham Hale,Haringey,LONDON,TQ345895,N15,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Tottenham Hale,Haringey,LONDON,TQ345895,N17,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Totteridge,Barnet,LONDON,TQ245945,N20,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Tower Hill,Tower Hamlets,LONDON,TQ333806,EC3,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Tufnell Park,"Islington, Camden",LONDON,TQ295855,N7,"Camden Road Open Space, Holloway, London Borough of Islington, London, Greater London, England, United Kingdom","(51.55523945, -0.11809731407678245, 0.0)",51.55523945,-0.118097314
+Tufnell Park,"Islington, Camden",LONDON,TQ295855,N19,"Camden Road Open Space, Holloway, London Borough of Islington, London, Greater London, England, United Kingdom","(51.55523945, -0.11809731407678245, 0.0)",51.55523945,-0.118097314
+Tulse Hill,Lambeth,LONDON,TQ315735,SE24,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Tulse Hill,Lambeth,LONDON,TQ315735,SE27,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Turnpike Lane,Haringey,LONDON,TQ305905,N8,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Upper Clapton,Hackney,LONDON,TQ345875,E5,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+Upper Holloway,Islington,LONDON,TQ297867,N19,"Islington, London, Greater London, England, N1, United Kingdom","(51.5384287, -0.0999051, 0.0)",51.5384287,-0.0999051
+Upper Norwood,Croydon,LONDON,TQ329707,SE19,"Croydon, London, Greater London, England, CR0 1SZ, United Kingdom","(51.3713049, -0.101957, 0.0)",51.3713049,-0.101957
+Upper Walthamstow,Waltham Forest,LONDON,TQ385895,E17,"The Forest, Upper Walthamstow, London Borough of Waltham Forest, London, Greater London, England, E17, United Kingdom","(51.5851424, 0.009494, 0.0)",51.5851424,0.009494
+Upton Park,Newham,LONDON,TQ405837,E6,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Upton Park,Newham,LONDON,TQ405837,E13,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+Vauxhall,Lambeth,LONDON,TQ305785,SW8,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Walthamstow,Waltham Forest,LONDON,TQ375865,E17,"The Forest, Upper Walthamstow, London Borough of Waltham Forest, London, Greater London, England, E17, United Kingdom","(51.5851424, 0.009494, 0.0)",51.5851424,0.009494
+Walthamstow Village,Waltham Forest,LONDON,TQ385895,E17,"The Forest, Upper Walthamstow, London Borough of Waltham Forest, London, Greater London, England, E17, United Kingdom","(51.5851424, 0.009494, 0.0)",51.5851424,0.009494
+Walworth,Southwark,LONDON,TQ325785,SE17,"Southwark, London Borough of Southwark, London, Greater London, England, SE1 0QB, United Kingdom","(51.5029222, -0.103458, 0.0)",51.5029222,-0.103458
+Wandsworth,Wandsworth,LONDON,TQ255755,SW18,"Wandsworth, London, Greater London, England, SW18 1UJ, United Kingdom","(51.4570271, -0.1932607, 0.0)",51.4570271,-0.1932607
+Wanstead,Redbridge,LONDON,TQ405885,E11,"Redbridge, Eastern Avenue, Redbridge, London Borough of Redbridge, London, Greater London, England, IG4 5DQ, United Kingdom","(51.5763203, 0.0454097, 0.0)",51.5763203,0.0454097
+Wapping,Tower Hamlets,LONDON,TQ345805,E1,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Well Hall,Greenwich,LONDON,TQ425751,SE9,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+West Brompton,Kensington and Chelsea,LONDON,TQ253779,SW10,"Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 5UA, United Kingdom","(51.4875167, -0.1687007, 0.0)",51.4875167,-0.1687007
+West Ealing,Ealing,LONDON,TQ153802,W13,"Ealing, London, Greater London, England, W5 5DG, United Kingdom","(51.5126553, -0.3051952, 0.0)",51.5126553,-0.3051952
+West Green,Haringey,LONDON,TQ324892,N15,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+West Hackney,Hackney,LONDON,TQ340865,N16,"Hackney, London, Greater London, England, E9 6QW, United Kingdom","(51.5432402, -0.0493621, 0.0)",51.5432402,-0.0493621
+West Ham,Newham,LONDON,TQ405837,E13,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+West Ham,Newham,LONDON,TQ405837,E15,"London Borough of Newham, London, Greater London, England, United Kingdom","(51.52999955, 0.02931796029382208, 0.0)",51.52999955,0.02931796
+West Hampstead,Camden,LONDON,TQ255855,NW6,"Camden, Camden County, New Jersey, United States","(39.9448402, -75.1198911, 0.0)",39.9448402,-75.1198911
+West Heath,Bexley,LONDON,TQ475775,SE2,"Bexley, Franklin County, Ohio, 43209, United States","(39.9692378, -82.936864, 0.0)",39.9692378,-82.936864
+West Hendon,Barnet,LONDON,TQ215885,NW9,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+West Kensington,Hammersmith and Fulham,LONDON,TQ246783,W14,"Hammersmith, London, Greater London, England, W6 9YA, United Kingdom","(51.4920377, -0.2236401, 0.0)",51.4920377,-0.2236401
+West Norwood,Lambeth,LONDON,TQ325715,SE27,"Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7GD, United Kingdom","(51.5013012, -0.117287, 0.0)",51.5013012,-0.117287
+Westcombe Park,Greenwich,LONDON,TQ402780,SE3,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Westminster,Westminster,LONDON,TQ295795,SW1,"Westminster, Millbank, City of Westminster, London, Greater London, England, SW1P 3JX, United Kingdom","(51.5004439, -0.1265398, 0.0)",51.5004439,-0.1265398
+Whetstone,Barnet,LONDON,TQ265935,N20,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+White City,Hammersmith and Fulham,LONDON,TQ233807,W12,"Hammersmith, London, Greater London, England, W6 9YA, United Kingdom","(51.4920377, -0.2236401, 0.0)",51.4920377,-0.2236401
+Whitechapel,Tower Hamlets,LONDON,TQ335815,E1,"Tower Hamlets, Dover, Kent, South East England, England, CT17 0BH, United Kingdom","(51.1288633, 1.2986686, 0.0)",51.1288633,1.2986686
+Willesden,Brent,LONDON,TQ227846,NW10,"Brent, Bibb County, Alabama, 35034, United States","(32.9373463, -87.1647184, 0.0)",32.9373463,-87.1647184
+Wimbledon,Merton,LONDON,TQ239709,SW19,"London Borough of Merton, London, Greater London, England, United Kingdom","(51.41086985, -0.18809708858824303, 0.0)",51.41086985,-0.188097089
+Wimbledon,Merton,LONDON,TQ239709,SW20,"London Borough of Merton, London, Greater London, England, United Kingdom","(51.41086985, -0.18809708858824303, 0.0)",51.41086985,-0.188097089
+Winchmore Hill,Enfield,LONDON,TQ315945,N21,"Enfield, London, Greater London, England, EN2 6LD, United Kingdom","(51.6520851, -0.0810175, 0.0)",51.6520851,-0.0810175
+Wood Green,Haringey,LONDON,TQ305905,N22,"London Borough of Haringey, London, Greater London, England, United Kingdom","(51.587929849999995, -0.10541010599099046, 0.0)",51.58792985,-0.105410106
+Woodford,Redbridge,LONDON,TQ405915,IG8,"Redbridge, Eastern Avenue, Redbridge, London Borough of Redbridge, London, Greater London, England, IG4 5DQ, United Kingdom","(51.5763203, 0.0454097, 0.0)",51.5763203,0.0454097
+Woodford,Redbridge,LONDON,TQ405915,E18,"Redbridge, Eastern Avenue, Redbridge, London Borough of Redbridge, London, Greater London, England, IG4 5DQ, United Kingdom","(51.5763203, 0.0454097, 0.0)",51.5763203,0.0454097
+Woodford Green,"Redbridge, Waltham Forest","LONDON, WOODFORD GREEN",TQ405915,IG8,"Waltham Road, Woodford, London Borough of Redbridge, London, Greater London, England, IG8 8DP, United Kingdom","(51.6081792, 0.0526336, 0.0)",51.6081792,0.0526336
+Woodside Park,Barnet,LONDON,TQ256925,N12,"Chipping Barnet, London, Greater London, England, EN5 5SB, United Kingdom","(51.65309, -0.2002261, 0.0)",51.65309,-0.2002261
+Woolwich,Greenwich,LONDON,TQ435795,SE18,"Greenwich, London, Greater London, England, SE10 9HF, United Kingdom","(51.4820845, -0.0045417, 0.0)",51.4820845,-0.0045417
+Wormwood Scrubs,Hammersmith and Fulham,LONDON,TQ225815,W12,"Hammersmith, London, Greater London, England, W6 9YA, United Kingdom","(51.4920377, -0.2236401, 0.0)",51.4920377,-0.2236401
